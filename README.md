@@ -1,4 +1,5 @@
-### Hi theree 👋
+### Hi there 👋
+![coding gif](https://github.com/officialmusto/officialmusto/assets/98829614/c564c2cb-1cce-4a80-932e-110e43036928)
 
 <!--
 **officialmusto/officialmusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
