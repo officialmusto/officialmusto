@@ -38,11 +38,39 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/officialmusto?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
+
+### Languages I Know.
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="ExpressJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+<br />
+
 <br/>
+
+![Musto's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialmusto&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=officialmusto&theme=gruvbox&border_radius=4.5) -->
+
+<details> 
+<summary><h3>👨‍💻 Musto's Coding Journey</h3></summary>
+   My journey kicked off as a wide-eyed computer science student, hungry for knowledge in coding, Apple, Windows, and the intricate theory behind it all. While I taught myself iOS development and dreamed of creating my own app, the allure of mastering JavaScript swayed my path, leading to a wanting to find a full-stack software engineering role post-graduation. As my skills flourished, so did my passion for YouTube content creation, a world I embraced fully. Yet, a dormant ambition to craft my own app tugged at me. Now, armed with expertise spanning HTML, CSS, React, Express.js, and more, brought to life in projects like Habit-Hero and StyleSwipe, I'm set to reignite that dream in 2023. Formerly a Genius at Apple, I'm now primed to meld technical finesse with unbridled creativity, driven by a burning desire to make my app-building dream a reality.
+
+[website](https://musto.codes) | 
+[youtube](https://youtube.com/codermusto)
+</details> 
+
 
 ![coding gif](https://github.com/officialmusto/officialmusto/assets/98829614/c564c2cb-1cce-4a80-932e-110e43036928)
 
-## Let's talk! [Send me a message on LinkedIn](https://www.linkedin.com/in/christian-musto/)!
+### Let's talk! [Send me a message on LinkedIn](https://www.linkedin.com/in/christian-musto/)!
 
 
 <!--
