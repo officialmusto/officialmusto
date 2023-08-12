@@ -32,10 +32,10 @@
 <p align="center">
   <a href="https://github.com/officialmusto?tab=repositories">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/officialmusto?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/officialmusto?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/officialmusto?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/officialmusto">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=officialmusto&style=for-the-badge"/></a>
+  <a href="https://github.com/officialmusto?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/officialmusto?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 <br/>
