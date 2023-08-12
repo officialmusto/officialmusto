@@ -38,6 +38,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/officialmusto?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
+#
 
 ### Languages I Know.
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -59,13 +60,14 @@
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=officialmusto&theme=gruvbox&border_radius=4.5) -->
 
+#
+
 <details> 
-<summary><h3>👨‍💻 Musto's Coding Journey</h3></summary>
+  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    My journey kicked off as a wide-eyed computer science student, hungry for knowledge in coding, Apple, Windows, and the intricate theory behind it all. While I taught myself iOS development and dreamed of creating my own app, the allure of mastering JavaScript swayed my path, leading to a wanting to find a full-stack software engineering role post-graduation. As my skills flourished, so did my passion for YouTube content creation, a world I embraced fully. Yet, a dormant ambition to craft my own app tugged at me. Now, armed with expertise spanning HTML, CSS, React, Express.js, and more, brought to life in projects like Habit-Hero and StyleSwipe, I'm set to reignite that dream in 2023. Formerly a Genius at Apple, I'm now primed to meld technical finesse with unbridled creativity, driven by a burning desire to make my app-building dream a reality.
 
 [website](https://musto.codes) | 
 [youtube](https://youtube.com/codermusto)
-</details> 
 
 
 ![coding gif](https://github.com/officialmusto/officialmusto/assets/98829614/c564c2cb-1cce-4a80-932e-110e43036928)
