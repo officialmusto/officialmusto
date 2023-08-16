@@ -40,18 +40,17 @@
 
 #
 
-### Languages I Know.
+### Languages I Know 💾
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="ExpressJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <br />
 
 <br/>
@@ -60,11 +59,22 @@
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=officialmusto&theme=gruvbox&border_radius=4.5) -->
 
+### Languages I'm Learning 🧑‍🏫
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<br />
+
 #
 
 <details> 
   <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-   My journey kicked off as a wide-eyed computer science student, hungry for knowledge in coding, Apple, Windows, and the intricate theory behind it all. While I taught myself iOS development and dreamed of creating my own app, the allure of mastering JavaScript swayed my path, leading to a wanting to find a full-stack software engineering role post-graduation. As my skills flourished, so did my passion for YouTube content creation, a world I embraced fully. Yet, a dormant ambition to craft my own app tugged at me. Now, armed with expertise spanning HTML, CSS, React, Express.js, and more, brought to life in projects like Habit-Hero and StyleSwipe, I'm set to reignite that dream in 2023. Formerly a Genius at Apple, I'm now primed to meld technical finesse with unbridled creativity, driven by a burning desire to make my app-building dream a reality.
+   My journey kicked off as a wide-eyed computer science student, hungry for knowledge in coding, Apple, Windows, and the intricate theory behind it all. While I taught myself iOS development and dreamed of creating my own app, the allure of mastering JavaScript swayed my path, leading to a wanting to find a full-stack so-+--
+   ftware engineering role post-graduation. As my skills flourished, so did my passion for YouTube content creation, a world I embraced fully. Yet, a dormant ambition to craft my own app tugged at me. Now, armed with expertise spanning HTML, CSS, React, Express.js, and more, brought to life in projects like Habit-Hero and StyleSwipe, I'm set to reignite that dream in 2023. Formerly a Genius at Apple, I'm now primed to meld technical finesse with unbridled creativity, driven by a burning desire to make my app-building dream a reality.
 
 [website](https://musto.codes) | 
 [youtube](https://youtube.com/codermusto)
