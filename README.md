@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://stars.github.com/profiles/officialmusto/">
-    <img src="https://imgur.com/B3skvdK" width="300px" /></a>
+    <img src="https://i.imgur.com/B3skvdK.jpg" width="300px" /></a>
 </p>
 
 <!-- Social icons section -->
