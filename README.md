@@ -1,6 +1,6 @@
 ### <p align="center">👋🏽 w e l c o m e !
 ### <p align="center">C h r i s t i a n - M u s t o 👨🏽‍💻 🇸🇻
-**<p align="center">`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**<p align="center">`Software Developer`**
 </p>
 
 <p align="center">
