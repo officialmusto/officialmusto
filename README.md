@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/6ed67351-6f45-46c3-8127-4de67452200d"/>
+    <img src="https://github.com/user-attachments/assets/6ed67351-6f45-46c3-8127-4de67452200d" width="500"/>
 </div>
 <!-- Social icons section -->
 <p align="center">
