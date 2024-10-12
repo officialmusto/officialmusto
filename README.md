@@ -1,32 +1,26 @@
-### <p align="center">👋🏽 w e l c o m e !
-### <p align="center">C h r i s t i a n - M u s t o 👨🏽‍💻 🇸🇻
-**<p align="center">`Software Developer`**
+<h2 align="center">
+  C h r i s t i a n - M u s t o 👨🏽‍💻 🇸🇻
+</h2>
+<p align="center">
+  <code>ReactJS | iOS Developer</code>
 </p>
 
 <div align="center">
+    <h3 align="column">let's connect:</h3>
+    <a href="https://linkedin.com/in/christian-musto-p">
+        <img alt="linkedin-logo" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/>
+    <a/>
+    <a href="mailto:christianmustoj@gmail.com">
+        <img alt="linkedin-logo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <a/>
+</div>
+<div align="center">
     <img src="https://github.com/user-attachments/assets/6ed67351-6f45-46c3-8127-4de67452200d" width="500"/>
 </div>
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/@codermusto"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/codermusto"><img width="100px" alt="X" title="X" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/skcRTWT9Vn" alt="Discord" title="DevSmashers Discord Server"><img width="100px" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/codermusto"><img width="100px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitch.com/mustbros"><img width="100px" alt="Twitch" title="TTwitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/musto"><img width="80px" alt="Ko-fi" title="Buy me a coffee ☕" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
+    
 <br/>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github. 
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+
 <p align="center">
   <a href="https://github.com/officialmusto?tab=repositories">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/officialmusto?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -35,18 +29,6 @@
   <a href="https://github.com/officialmusto?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/officialmusto?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
-
-<br/>
-
-<div align="center">
-  <h3>let's connect:</h3>
-  <a href="https://linkedin.com/in/christian-musto-p">
-    <img alt="linkedin-logo" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/>
-  <a/>
-  <a href="mailto:christianmustoj@gmail.com">
-    <img alt="linkedin-logo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <a/>
-<div/>
 
 #
 
