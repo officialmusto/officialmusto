@@ -37,8 +37,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=officialmusto&theme=transparent&border=555555&mode=daily)
 ![Musto's Stats](https://github-readme-stats.vercel.app/api?username=officialmusto&show=prs_merged,prs_merged_percentage_icons=true&theme=transparent)
 
-### Languages I Know 💾
 <div align="center">
+  <h3> Languages I Know 💾</h3>
   <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -55,13 +55,13 @@
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=officialmusto&theme=gruvbox&border_radius=4.5) -->
 
-### Languages I'm Learning 🧑‍🏫
 <div align="center">
+  <h3>Languages I'm Learning 🧑‍🏫</h3>
+  <img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
   <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
   <img alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
   
@@ -69,36 +69,23 @@
 
 #
 
-<h3>👨‍💻 My Coding Journey</h3>
+<div align="center">
+  <h3>👨‍💻 My Coding Journey</h3>
   
-#### I started coding after completing General Assembly’s Software Engineering Immersive (SEI) course, learning the essentials like JavaScript, HTML, CSS, and React. Lately, I’ve been diving into mobile development, with a focus on React Native for iOS.
+  #### I started coding after completing General Assembly’s Software Engineering Immersive (SEI) course, learning the essentials like JavaScript,     HTML, CSS, and React. Lately, I’ve been diving into mobile development, with a focus on React Native for iOS.
 
-#### When I’m not working on code, I’m spending time with my family. My two kids and my lady are my biggest motivation. They keep me grounded and remind me why I’m pushing to keep improving and growing in this field.
+  #### When I’m not working on code, I’m spending time with my family. My two kids and my lady are my biggest motivation. They keep me grounded and   remind me why I’m pushing to keep improving and growing in this field.
 
-#### I’m all about putting in the work, staying focused, and seeing where this journey takes me.
+  #### I’m all about putting in the work, staying focused, and seeing where this journey takes me.
 
 
-<img src="https://i.imgur.com/CPpU3NS.gif" alt="funny-cat" width="150" height="150" />
+  <img src="https://i.imgur.com/CPpU3NS.gif" alt="funny-cat" width="150" height="150" />
+</div>
 
 # 
 
-<div>
+<div align="center">
   <a href="https://youtube.com/mustolinii">
     <img src="https://i.imgur.com/YCHOrEb.png" alt="youtube-icon" width="65" height="65">
   </a>
 <div/>
-
-<!--
-**officialmusto/officialmusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
