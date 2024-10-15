@@ -35,14 +35,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialmusto&show=prs_merged,prs_merged_percentage_icons=true&theme=transparent" alt="Musto's Stats" width="310" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=officialmusto&theme=transparent&border=555555&mode=daily" alt="GitHub Streak" width="420" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialmusto&layout=compact&theme=transparent" alt="Top Languages" width="290" />
-</div>
-
-<div align="center">
   <h3> Languages I Know 💾</h3>
   <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -56,6 +48,14 @@
   <img alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 </div>
 <br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=officialmusto&show=prs_merged,prs_merged_percentage_icons=true&theme=transparent" alt="Musto's Stats" width="350" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=officialmusto&theme=transparent&border=555555&mode=daily" alt="GitHub Streak" width="450" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialmusto&layout=compact&theme=transparent" alt="Top Languages" width="270" />
+</div>
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=officialmusto&theme=gruvbox&border_radius=4.5) -->
