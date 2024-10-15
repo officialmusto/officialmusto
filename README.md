@@ -35,9 +35,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialmusto&show=prs_merged,prs_merged_percentage_icons=true&theme=transparent" alt="Musto's Stats" style="width: 310px;" />
-  <img src="https://streak-stats.demolab.com/?user=officialmusto&theme=transparent&border=555555&mode=daily" alt="GitHub Streak" style="width: 420px;" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialmusto&layout=compact&theme=transparent" alt="Top Languages" style="width: 270px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=officialmusto&show=prs_merged,prs_merged_percentage_icons=true&theme=transparent" alt="Musto's Stats" width="310" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=officialmusto&theme=transparent&border=555555&mode=daily" alt="GitHub Streak" width="420" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialmusto&layout=compact&theme=transparent" alt="Top Languages" width="290" />
 </div>
 
 <div align="center">
