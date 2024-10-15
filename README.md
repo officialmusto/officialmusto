@@ -35,9 +35,9 @@
 <br/>
 
 <div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=officialmusto&theme=transparent&border=555555&mode=daily) 
-![Musto's Stats](https://github-readme-stats.vercel.app/api?username=officialmusto&show=prs_merged,prs_merged_percentage_icons=true&theme=transparent)
+  <img src="https://github-readme-stats.vercel.app/api?username=officialmusto&show=prs_merged,prs_merged_percentage_icons=true&theme=transparent" alt="Musto's Stats" style="width: 310px;" />
+  <img src="https://streak-stats.demolab.com/?user=officialmusto&theme=transparent&border=555555&mode=daily" alt="GitHub Streak" style="width: 420px;" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialmusto&layout=compact&theme=transparent" alt="Top Languages" style="width: 270px;" />
 </div>
 
 <div align="center">
