@@ -7,7 +7,7 @@
 
 <div align="center">
     <h3 align="column">let's connect:</h3>
-    <a href="https://linkedin.com/in/christian-musto-p">
+    <a href="https://linkedin.com/in/christian-musto">
         <img alt="linkedin-logo" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/>
     <a/>
     <a href="mailto:christianmustoj@gmail.com">
