@@ -2,7 +2,7 @@
   C h r i s t i a n - M u s t o 👨🏽‍💻
 </h2>
 <p align="center">
-  <code>ReactJS | iOS Developer</code>
+  <code>ReactJS | Full Stack Developer</code>
 </p>
 
 <div align="center">
