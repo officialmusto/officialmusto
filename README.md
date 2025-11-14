@@ -1,5 +1,5 @@
 <h2 align="center">
-  C h r i s t i a n - M u s t o 👨🏽‍💻
+  @ o f f i c a l m u s t o | 👨🏽‍💻
 </h2>
 <p align="center">
   <code>ReactJS | Full Stack Developer</code>
@@ -7,15 +7,8 @@
 
 <div align="center">
     <h3 align="column">let's connect:</h3>
-    <a href="https://linkedin.com/in/christian-musto">
-        <img alt="linkedin-logo" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/>
-    <a/>
-    <a href="mailto:christianmustoj@gmail.com">
-        <img alt="linkedin-logo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    <a/>
 </div>
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/6ed67351-6f45-46c3-8127-4de67452200d" width="410"/>
 </div>
     
 <br/>
@@ -93,3 +86,4 @@
     <img src="https://i.imgur.com/YCHOrEb.png" alt="youtube-icon" width="65" height="65">
   </a>
 <div/>
+
